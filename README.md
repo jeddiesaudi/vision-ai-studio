@@ -2,7 +2,7 @@
 
 Real-time face analysis that runs entirely in your browser. No server. No backend. Your camera feed never leaves your device.
 
-**[Live Demo →](https://vision-ai-studio.vercel.app)**
+**[Live Demo →](https://vision-ai-studio-gold.vercel.app/)**
 
 ![Demo](demo.gif)
 
