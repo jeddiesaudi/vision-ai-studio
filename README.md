@@ -4,7 +4,7 @@ Real-time face analysis that runs entirely in your browser. No server. No backen
 
 **[Live Demo →](https://vision-ai-studio-gold.vercel.app/)**
 
-![Demo](demo.gif)
+![Demo](vision-ai-studio-demo.gif)
 
 ---
 
